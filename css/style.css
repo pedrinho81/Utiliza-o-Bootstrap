@@ -1,0 +1,33 @@
+.navbar{
+    background-color: pink;
+}
+
+.quem-somos{
+    background-color: rebeccapurple;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.parceiros{
+    background-color:#D0ECE7;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.parceiro1{
+    max-width: 20px;
+}
+
+.foto1{
+    max-width: 50px;
+}
+
+.bg-footer{
+    background-color: black;
+    color: blanchedalmond;
+    padding-top: 22px;
+    padding-bottom: 22px;
+}
